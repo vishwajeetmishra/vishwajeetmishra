@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center">Working as a Tech Lead in Kotak Mahindra Bank</h1>
+<h1 align="center">Vishwajeet Mishra</h1>
+<h2>Working as a Tech Lead in Kotak Mahindra Bank</h2>
 <h3 align="center">A MEAN/MERN full Stack Developer having 10+ years of extensive experience in Developing Dynamic Web Applications using ReactJS, NextJS Angular 4+, Redux, Node.JS, ExpressJS, Javascript, HTML 5, CSS 3, Mysql, MongoDB and Redis.</h3>
 
 - 🔭 I’m currently working on **Pension Board**
