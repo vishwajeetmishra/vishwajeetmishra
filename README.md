@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vishwajeetmishra@rocketmail.com**
 
-- ⚡ Fun fact **I believe I am a good developer :)**
+- ⚡ Fun fact ** Solving tech issues is my dopamine :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
